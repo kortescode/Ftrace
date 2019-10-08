@@ -1,4 +1,5 @@
 *.o
+*.dot
 *ftrace
 *fct_test
 .svn/
