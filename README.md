@@ -64,6 +64,8 @@ t_tab    syscalls_tab[] =
 ./ftrace ./fct_test
 ```
 
+The `./fct_test` executable code is written in [`test/main.c`](test/main.c).
+
 ## License
 
 Distributed under the [Apache License, Version 2.0](http://www.apache.org/licenses/). See [`LICENSE`](LICENSE) for more information.
