@@ -1,4 +1,4 @@
-# Ftrace
+# Ftrace [![Build Status](https://travis-ci.org/kortescode/Ftrace.svg?branch=master)](https://travis-ci.org/kortescode/Ftrace)
 
 Ftrace is a C executable. It's like the tracing framework of Linux : [ftrace](https://en.wikipedia.org/wiki/Ftrace).
 
